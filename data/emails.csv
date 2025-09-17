@@ -1,0 +1,245 @@
+from,subject,body,label
+"support@paypa1.com","Your PayPal account will be locked!","Dear Customer,\nWe detected suspicious activity on your PayPal account. Verify now at http://paypa1-login[.]ru/verify or your account will be suspended.",1
+"it-support@acme-corp.com","Password Reset Required for tanmay","Hi Tanmay,\nAs part of our security measures please reset your company password using https://intranet.acme-corp.com/password-reset.",0
+"admin@secure-bank.com","Urgent: Verify Your Account Immediately","Dear User,\nYour account will be suspended due to failed logins. Click http://secure-bank.verify-now.example/login to verify.",1
+"billing@netflix.com","Your invoice for Sep 2025","Hello Tanmay,\nYour Netflix invoice for September 2025 is ready. View invoice: https://www.netflix.com/billing/invoice",0
+"support@amazon.com","We need to confirm your payment method","Dear Customer,\nWe were unable to charge your card. Update your payment info within 12 hours at https://www.amazon.com/payments.",1
+"hr@acme-corp.com","Interview schedule — 10:00 AM Monday","Hi Tanmay,\nYour interview with Acme Corp is scheduled for Monday at 10:00 AM. Join at https://meet.acme-corp.com/xyz",0
+"offers@shopping-deals.loan","Claim your $1000 reward now","CONGRATULATIONS!\nYou've been selected to claim $1000. Claim here: http://shopping-deals-rewards[.]xyz/claim",1
+"team@github.com","Security alert: New sign-in to your account","Hi Tanmay,\nWe noticed a new sign-in to your GitHub account. If this wasn't you, secure your account: https://github.com/settings/security",0
+"noreply@banking-notify.com","Payment failed on your account","Dear Customer,\nA payment failed. Verify your card to avoid fees: https://banking-notify.verify-card.example/confirm",1
+"contact@airline.com","Your flight booking confirmation - AI123","Hello Tanmay,\nYour flight AI123 on 2025-10-05 is confirmed. Manage: https://www.skyflyers.com/bookings",0
+"support@paypa1.security","Immediate verification required","Dear User,\nVerify your PayPal at http://paypal.verify-now[.]ru or access will be restricted.",1
+"alerts@bankofindia.com","Unusual activity detected","Dear Tanmay,\nWe detected unusual sign-ins. If this wasn't you, visit https://bankofindia.com/security.",0
+"admin@secure-update.com","Reset your account password","Dear Customer,\nReset your account now: http://secure-update[.]xyz/reset to avoid suspension.",1
+"billing@spotify.com","Your Spotify receipt for Aug 2025","Hi Tanmay,\nYour Spotify receipt is ready. View here: https://www.spotify.com/account/billing",0
+"service@upi-help.com","Confirm your UPI details","Dear User,\nConfirm your UPI to prevent blocks: http://upi-confirm[.]ru/verify",1
+"support@zoom.us","Zoom meeting details","Hi,\nYour scheduled Zoom meeting link is: https://zoom.us/j/123456789",0
+"alerts@apple.com","Security notice for your Apple ID","Dear Customer,\nYour Apple ID was signed in from a new device. Review: https://appleid.apple.com",0
+"security@paypal-alerts.com","Verify payment immediately","Attention,\nA recent payment failed. Verify at http://paypal-verify[.]xyz/payment or your account will be limited.",1
+"noreply@stripe.com","Payment processed — receipt","Hi Tanmay,\nYour Stripe payment was processed. Receipt available at https://dashboard.stripe.com/payments",0
+"offers@win-big-now.com","You won a grand prize!","WOW!\nYou are a winner. Click to claim: http://win-big-now[.]xyz/claim",1
+"info@university.edu","Course registration open","Dear Student,\nCourse registrations open. Visit https://portal.university.edu/register",0
+"security@scammail-alert.com","Important: Account verification","Dear User,\nVerify now at http://verify-account[.]ru to prevent permanent suspension.",1
+"team@slack.com","New device signed in","Hi Tanmay,\nA new device signed into your Slack. If not you, see https://slack.com/account/settings",0
+"offers@cheap-loans.org","Low interest loan approval","CONGRATULATIONS!\nYour loan is provisionally approved. Apply now: http://cheap-loans[.]xyz/apply",1
+"support@microsoft.com","Office 365 maintenance notice","Hello,\nScheduled maintenance for Office 365. No action required.",0
+"admin@secure-payments.com","Action required: confirm billing info","Dear Customer,\nConfirm billing information: http://secure-payments[.]ru/update to avoid interruption.",1
+"noreply@courier.com","Delivery scheduled for Sep 20","Hello Tanmay,\nYour parcel will be delivered on Sep 20. Track: https://tracking.courier.com/ABC123",0
+"promo@best-deals[.]com","Limited time discount just for you","Hurry!\nGet 70% off. Click: http://best-deals[.]xyz/offer",1
+"contact@hospital.org","Appointment confirmation","Dear Tanmay,\nYour appointment is confirmed for Oct 2. Details on our portal.",0
+"security@bank-login.com","Immediate action required","Dear Customer,\nYour account access is limited. Verify at http://bank-login[.]ru/check now.",1
+"info@conference.org","Your conference registration is confirmed","Hello,\nThanks for registering. See schedule at https://conference.org/schedule",0
+"support@taxes-file.com","Tax refund claim notice","Dear User,\nYou are eligible for a tax refund. Claim at http://taxrefund[.]ru/claim",1
+"no-reply@airline.com","Check-in open for flight AI123","Hi Tanmay,\nCheck-in is open for your flight. Use https://www.airline.com/checkin",0
+"alerts@parcel-track.com","Address verification needed","Dear Customer,\nConfirm your address now: http://parcel-verify[.]xyz/address to avoid return.",1
+"hr@startup.com","Offer letter and next steps","Hi Tanmay,\nCongratulations — your offer letter is attached. Welcome aboard!",0
+"security@bank-secure[.]com","Confirm recent transaction","Dear User,\nA transaction requires confirmation: http://bank-secure[.]ru/confirm",1
+"support@drive.google.com","Unusual activity on your Drive","Hi Tanmay,\nWe detected unusual activity. Review: https://myaccount.google.com/security",0
+"offers@gift-card[.]xyz","Redeem your gift card now","REDEEM!\nGet your gift card at http://gift-card[.]xyz/redeem",1
+"notifications@coursera.org","New course recommended for you","Hello,\nBased on your interests, we recommend this course. Learn more at https://www.coursera.org",0
+"admin@secure-update[.]com","Your account requires verification","Dear User,\nVerify: http://secure-update[.]com/verify to avoid service loss.",1
+"team@asana.com","Project update notification","Hi Tanmay,\nA task was assigned to you in Asana. View it at https://app.asana.com",0
+"offers@cash-prize[.]info","You have been selected to win","Congratulations!\nClaim your cash prize at http://cash-prize[.]info/claim",1
+"newsletter@news.org","Daily news round-up","Morning,\nHere are today's headlines.",0
+"support@icloud.com","Apple ID verification required","Dear Customer,\nVerify Apple ID at http://icloud-verify[.]ru/login",1
+"billing@pay-service.com","Subscription renewal receipt","Hi Tanmay,\nYour subscription was renewed. View details at https://pay-service.com/receipt",0
+"security@webmail-verify.com","Account suspended — verify now","Attention,\nYour email account is suspended. Verify at http://webmail-verify[.]xyz/restore",1
+"contact@hotel.com","Booking confirmation - H789","Hello Tanmay,\nYour hotel booking H789 is confirmed. Manage at https://www.hotel.com/bookings",0
+"offers@investment-profits[.]com","Double your investment in 7 days","INVEST!\nDouble returns guaranteed. Start at http://investment-profits[.]com/start",1
+"noreply@bankalerts.com","New statement available","Dear Tanmay,\nYour monthly bank statement is available in your online banking portal.",0
+"support@tax-office[.]ru","Tax notice — immediate response required","Dear Taxpayer,\nRespond immediately at http://tax-office[.]ru/respond to avoid penalties.",1
+"team@notion.so","Workspace invite","Hi Tanmay,\nYou were invited to a Notion workspace. Accept at https://www.notion.so",0
+"support@online-payments[.]xyz","Verify card to complete transaction","Dear Customer,\nVerify card details here: http://online-payments[.]xyz/verify",1
+"noreply@university.edu","Scholarship application status","Hello,\nYour scholarship application status has been updated. Check the portal.",0
+"alerts@banking-update.com","Confirm your recent transaction","Dear User,\nConfirm now at http://banking-update[.]xyz/confirm to avoid fraud.",1
+"info@conference.com","Ticket and schedule","Hi Tanmay,\nYour conference ticket and schedule are attached.",0
+"sales@cheapgadgets[.]ru","Everything 90% off — limited","FLASH SALE!\nBuy now: http://cheapgadgets[.]ru/sale",1
+"support@gmail.com","Security check for your Google account","Dear Tanmay,\nWe noticed suspicious activity. Visit https://myaccount.google.com to review.",0
+"alerts@creditcard[.]xyz","Your card will be blocked","Dear Customer,\nYour card will be blocked unless you update at http://creditcard[.]xyz/update",1
+"billing@shopify.com","Payment received — order #1234","Hello,\nWe received your payment. Your order is being processed.",0
+"support@online-bank[.]info","Action required: confirm identity","Dear User,\nConfirm your identity at http://online-bank[.]info/confirm to continue using services.",1
+"team@zoom.com","Your meeting is scheduled","Hi,\nYour scheduled meeting link is available in Zoom.",0
+"promos@lottery-win[.]com","You have won the lottery","CONGRATS!\nClaim at http://lottery-win[.]com/claim to receive your prize.",1
+"no-reply@eduportal.edu","Grades released for Fall 2025","Dear Student,\nYour grades for Fall 2025 are now available on the portal.",0
+"support@securemail[.]ru","Mailbox verification required","Dear User,\nVerify mailbox at http://securemail[.]ru/verify to prevent closure.",1
+"notifications@linkedin.com","Someone viewed your profile","Hi Tanmay,\nSomeone viewed your LinkedIn profile. See who at https://www.linkedin.com",0
+"offers@flash-deals[.]xyz","Earn cashback instantly","Act now!\nGet cashback at http://flash-deals[.]xyz/earn",1
+"helpdesk@company.com","Internal IT update","Dear Team,\nPlanned maintenance tonight. No action required.",0
+"admin@verify-account[.]ru","Confirm email ownership","Dear User,\nConfirm ownership: http://verify-account[.]ru/confirm or access will be removed.",1
+"orders@amazon.com","Your order #ORD1234 has shipped","Hi Tanmay,\nYour order ORD1234 has shipped. Track at https://www.amazon.com/track",0
+"security@mobile-bank[.]xyz","New login detected — verify now","Dear Customer,\nA new login was detected. Verify at http://mobile-bank[.]xyz/check",1
+"contact@museum.org","Membership renewal reminder","Hello,\nYour museum membership is expiring soon. Renew online at our portal.",0
+"promo@free-voucher[.]net","Get a free voucher today","FREE VOUCHER!\nClaim at http://free-voucher[.]net/redeem",1
+"support@dropbox.com","Unusual activity detected on your account","Hi Tanmay,\nWe noticed unusual activity. Visit https://www.dropbox.com/account/security",0
+"alerts@bank-secure[.]com","Verify recent changes","Dear User,\nVerify recent account changes at http://bank-secure[.]com/verify",1
+"events@community.org","Volunteer event this weekend","Hello,\nJoin our volunteer event this weekend. Details on the site.",0
+"offers@crypto-boost[.]io","Invest now — guaranteed returns","GUARANTEED!\nDouble crypto returns at http://crypto-boost[.]io/start",1
+"noreply@govt-portal.gov","Tax filing deadline reminder","Dear Citizen,\nReminder: the tax filing deadline is approaching. File at the official portal.",0
+"security@secure-login[.]ru","Account locked — verify identity","Dear User,\nYour account is locked. Verify at http://secure-login[.]ru/verify to unlock.",1
+"news@techsite.com","New product launch today","Hi,\nWe launched a new product. Read more on our site.",0
+"admin@verify-pay[.]com","Confirm your transaction now","Dear Customer,\nConfirm transaction at http://verify-pay[.]com/txn to avoid chargebacks.",1
+"noreply@bank.com","Your statement is ready","Dear Tanmay,\nYour monthly statement is available in online banking.",0
+"offers@store-discounts[.]ru","Exclusive coupon inside","LIMITED!\nGet coupons at http://store-discounts[.]ru/coupons",1
+"hr@company.com","Payroll update for Sep 2025","Dear Employee,\nPayroll processed. See your payslip in the HR portal.",0
+"support@secure-verification[.]xyz","Identity confirmation required","Dear User,\nConfirm identity at http://secure-verification[.]xyz/confirm to continue.",1
+"notifications@gmail.com","New sign-in to your Google account","We're alerting you about a new sign-in. If this wasn't you, secure your account.",0
+"offers@holiday-deals[.]com","Save big on holiday packages","Special offer!\nBook now: http://holiday-deals[.]com/book",1
+"no-reply@ticketing.com","Your event tickets","Hello Tanmay,\nYour tickets are attached. Show them at the venue.",0
+"admin@update-profile[.]ru","Update required: profile info","Dear User,\nUpdate profile at http://update-profile[.]ru to comply with new rules.",1
+"support@slack.com","Security notice: new device","Hi,\nNew device login detected. Review your account security.",0
+"offers@mega-prize[.]xyz","You are a finalist — claim prize","FINALIST!\nClaim at http://mega-prize[.]xyz/claim now.",1
+"orders@shop.com","Order confirmation — #5678","Hi Tanmay,\nWe received your order #5678. Thank you for shopping.",0
+"security@verify-now[.]ru","Immediate verification required","Dear Customer,\nImmediate verification required at http://verify-now[.]ru/account or access will be removed.",1
+"team@google.com","Account activity detected","Hi,\nWe detected activity on your Google account. Review at https://myaccount.google.com/security",0
+"offers@quick-loans[.]com","Low rate personal loans","Get personal loan now: http://quick-loans[.]com/apply",1
+"contact@charity.org","Thank you for your donation","Dear Tanmay,\nThank you for your generous donation. Receipt attached.",0
+"support@secure-gov[.]ru","Urgent: update citizen details","Dear Citizen,\nUpdate details at http://secure-gov[.]ru/update to stay compliant.",1
+"news@startup.com","Your weekly startup digest","Hi,\nHere are curated startup stories this week.",0
+"promo@discount-store[.]ru","Special clearance sale","Hurry!\nSale: http://discount-store[.]ru/clearance",1
+"noreply@school.edu","Parent-teacher meeting schedule","Dear Parent,\nPTM scheduled for Oct 1. View instructions on portal.",0
+"admin@verify-payments[.]xyz","Verify your payment method","Dear Customer,\nVerify at http://verify-payments[.]xyz/update to continue services.",1
+"team@figma.com","Invitation to collaborate","Hi Tanmay,\nYou were invited to a Figma file. Open it at https://www.figma.com",0
+"offers@prize-draw[.]club","You've been drawn as a winner","WINNER!\nClaim prize at http://prize-draw[.]club/claim",1
+"noreply@banking.com","Change to terms of service","Dear Customer,\nWe updated our Terms of Service. See details in your account.",0
+"alerts@security-check[.]ru","Confirm suspicious activity","Dear User,\nConfirm activity at http://security-check[.]ru/confirm to avoid blocks.",1
+"contact@library.org","Book reservation ready","Hello,\nYour reserved book is ready for pickup.",0
+"offers@instant-earn[.]biz","Work from home — earn $500/day","EARN NOW!\nStart at http://instant-earn[.]biz/start",1
+"support@paypal.com","Notification about your account","Dear Tanmay,\nWe noticed activity on your PayPal account. Visit official site to review.",0
+"admin@account-verify[.]ru","Action required: account verification","Dear User,\nVerify at http://account-verify[.]ru/verify or lose access.",1
+"updates@software.com","New version available","Hi,\nA new version of your software is available. Update via the official updater.",0
+"promo@business-loans[.]xyz","Quick business funding approval","APPROVED!\nApply at http://business-loans[.]xyz/apply",1
+"noreply@healthcare.org","Lab results available","Hello,\nYour lab results are now available on the patient portal.",0
+"alerts@id-theft[.]ru","Identity verification needed","Dear Customer,\nVerify identity at http://id-theft[.]ru/verify to prevent theft.",1
+"team@notion.com","Comment on your doc","Hi Tanmay,\nSomeone left a comment on your Notion doc.",0
+"offers@reward-center[.]com","Exclusive rewards waiting","CLAIM!\nGet rewards: http://reward-center[.]com/claim",1
+"noreply@utilitycompany.com","Your bill is due","Dear Customer,\nYour utility bill is due on Oct 5. Pay via your account.",0
+"admin@secure-access[.]com","Security alert: verify account","Dear User,\nVerify at http://secure-access[.]com/verify to restore access.",1
+"contact@museum.org","Guided tour booking confirmation","Hello,\nYour guided tour on Oct 10 is confirmed. See details in email.",0
+"offers@earn-crypto[.]io","Free crypto giveaway","FREE CRYPTO!\nJoin at http://earn-crypto[.]io/join",1
+"support@apple.com","Your Apple receipt","Hi Tanmay,\nYour Apple purchase receipt is attached.",0
+"alerts@bank-verify[.]ru","Verify account activity now","Dear Customer,\nVerify activity: http://bank-verify[.]ru/check",1
+"jobs@techstartup.com","Interview follow-up","Hi Tanmay,\nThanks for interviewing. We'll be in touch shortly.",0
+"promo@superstore[.]xyz","Exclusive midnight sale","SALE!\nShop now: http://superstore[.]xyz/midnight",1
+"no-reply@govservices.gov","Your application has been received","Dear Applicant,\nWe received your application. We'll notify you of updates.",0
+"admin@secure-mail[.]ru","Email verification required","Dear User,\nVerify at http://secure-mail[.]ru/verify to continue using mail services.",1
+"team@asana.com","Task assigned: Prepare report","Hi Tanmay,\nA new task was assigned to you in Asana.",0
+"offers@cashback[.]pro","Instant cashback on purchases","GET CASHBACK!\nVisit http://cashback[.]pro/redeem",1
+"support@university.edu","Library fine notice","Hello,\nYou have an overdue book. Please return to avoid fines.",0
+"alerts@secure-pay[.]com","Update your billing details","Dear Customer,\nUpdate details at http://secure-pay[.]com/update or service will be suspended.",1
+"info@conference.com","Speaker schedule published","Hello,\nSpeaker schedule is published. See details on the site.",0
+"promo@high-yield[.]fund","Invest and earn 20% monthly","INVEST NOW!\nOpen account at http://high-yield[.]fund/join",1
+"noreply@ecommerce.com","Your refund has been processed","Hi Tanmay,\nYour refund has been processed and credited to your account.",0
+"admin@verify-account[.]com","Confirm password change","Dear User,\nConfirm password change at http://verify-account[.]com/confirm",1
+"notifications@twitter.com","New follower – check it out","Hi,\nYou have a new follower on Twitter.",0
+"offers@loan-approve[.]xyz","Pre-approved loan offer","PRE-APPROVED!\nApply at http://loan-approve[.]xyz/start",1
+"noreply@banking.com","We updated our privacy policy","Dear Customer,\nWe've updated our privacy policy. Review changes in your account.",0
+"alerts@secure-login[.]com","Account flagged — verify identity","Dear User,\nAccount flagged for suspicious activity. Verify at http://secure-login[.]com/verify",1
+"contact@community.org","Volunteer thank you","Hello,\nThank you for volunteering last weekend.",0
+"promo@trendy-shop[.]ru","Limited edition release — buy now","LIMITED!\nShop at http://trendy-shop[.]ru/release",1
+"support@github.com","New security alert for your account","Hi Tanmay,\nWe noticed unusual activity. Secure your account if necessary.",0
+"admin@confirm-payment[.]xyz","Payment could not be processed","Dear Customer,\nConfirm payment now at http://confirm-payment[.]xyz/update",1
+"newsletter@health.org","Weekly wellness tips","Hi,\nHere are curated wellness tips for the week.",0
+"offers@best-coupons[.]info","Grab 80% off coupons","ACT FAST!\nDownload coupons: http://best-coupons[.]info/download",1
+"info@bank.com","Important update about your account","Dear Tanmay,\nWe changed account features—see details in your online banking.",0
+"security@verify-now[.]xyz","Transaction blocked — verify now","Dear Customer,\nA transaction was blocked. Verify at http://verify-now[.]xyz/transaction",1
+"team@stripe.com","Payment dispute resolved","Hi Tanmay,\nA recent payment dispute has been resolved. See details in dashboard.",0
+"offers@crypto-gains[.]com","Crypto investment opportunity","EARN BIG!\nStart at http://crypto-gains[.]com/invest",1
+"noreply@school.edu","Registration confirmation","Dear Student,\nYour registration for the semester is confirmed.",0
+"admin@secure-check[.]ru","Account requires immediate action","Dear User,\nTake immediate action: http://secure-check[.]ru/action",1
+"support@zendesk.com","Ticket #789 resolved","Hi,\nYour support ticket #789 has been resolved. Close if satisfied.",0
+"promo@luxury-deals[.]com","Exclusive luxury discount","SPECIAL!\nGrab discount at http://luxury-deals[.]com/deal",1
+"noreply@travel.com","Itinerary for your upcoming trip","Hello Tanmay,\nYour trip itinerary is attached. Check online for updates.",0
+"alerts@safe-bank[.]ru","Security update needed","Dear Customer,\nUpdate security settings at http://safe-bank[.]ru/update to keep account safe.",1
+"team@dropbox.com","Shared file access granted","Hi Tanmay,\nA file was shared with you on Dropbox.",0
+"offers@easy-cash[.]loan","Instant loan approved","APPROVED!\nGet loan at http://easy-cash[.]loan/accept",1
+"info@citycouncil.org","Town hall meeting agenda","Dear Resident,\nTown hall meeting agenda has been published.",0
+"admin@billing-verify[.]com","Confirm subscription payment","Dear Subscriber,\nConfirm your subscription at http://billing-verify[.]com/confirm",1
+"support@paypal.com","Your payment was received","Hi Tanmay,\nWe received your payment. No further action required.",0
+"offers@mega-earn[.]xyz","Work remotely — huge pay","EARN NOW!\nStart at http://mega-earn[.]xyz/signup",1
+"noreply@museum.org","Membership card ready","Hello,\nYour membership card is ready for pickup.",0
+"admin@secure-update[.]ru","Verification request","Dear User,\nPlease verify at http://secure-update[.]ru/verify or your account will be restricted.",1
+"team@microsoft.com","Office license renewed","Hi,\nYour Office license has been renewed successfully.",0
+"promo@surveys-earn[.]com","Take surveys and get paid","EARN CASH!\nJoin at http://surveys-earn[.]com/join",1
+"noreply@library.org","Book due date reminder","Hello,\nYour borrowed book is due next week. Please return to avoid fines.",0
+"security@account-check[.]ru","Confirm account changes","Dear Customer,\nConfirm changes at http://account-check[.]ru/confirm",1
+"info@theater.com","Your show tickets","Hi Tanmay,\nYour show tickets for Oct are attached.",0
+"offers@smart-credits[.]loan","Credit offer approval","Congratulations!\nPre-approved credit at http://smart-credits[.]loan/accept",1
+"noreply@university.edu","Transcript request processed","Hello,\nYour transcript request has been processed.",0
+"alerts@secure-mail[.]com","Unusual login — verify","Dear User,\nAn unusual login was detected. Verify at http://secure-mail[.]com/verify",1
+"team@figma.com","File comments notification","Hi,\nSomeone commented on your Figma file.",0
+"offers@daily-prize[.]club","Daily prize winner","YOU WIN!\nClaim at http://daily-prize[.]club/claim",1
+"support@bank.com","Account activity summary","Dear Tanmay,\nYour account had 3 successful logins this week. Review in online banking.",0
+"admin@confirm-identity[.]ru","Identity confirmation required","Dear Customer,\nConfirm identity now at http://confirm-identity[.]ru/verify",1
+"news@magazine.com","Your monthly magazine is here","Hi,\nYour monthly magazine edition is live.",0
+"promo@super-earn[.]biz","Make money fast — limited slots","MAKE MONEY!\nStart at http://super-earn[.]biz/start",1
+"noreply@clinic.org","Appointment reminder","Hello,\nYour appointment on Oct 5 is confirmed.",0
+"support@secure-pay[.]com","Alert: billing issue","Dear Customer,\nBilling failed. Update details at http://secure-pay[.]com/update",1
+"team@zoom.com","You have an upcoming meeting","Hi,\nYour scheduled Zoom meeting is tomorrow.",0
+"offers@luxury-prize[.]xyz","Claim your luxury prize","CLAIM!\nGet prize at http://luxury-prize[.]xyz/claim",1
+"noreply@cityservices.gov","Permit application approved","Dear Applicant,\nYour permit application has been approved.",0
+"admin@verify-account[.]info","Verify to restore access","Dear User,\nVerify at http://verify-account[.]info/restore to regain access.",1
+"contact@hotel.com","Reservation confirmation","Hello Tanmay,\nYour hotel reservation is confirmed. See details in booking.",0
+"offers@fast-cash[.]loan","Instant cash for you","INSTANT CASH!\nApply at http://fast-cash[.]loan/apply",1
+"support@github.com","Repo invitation","Hi Tanmay,\nYou were invited to collaborate on a repository.",0
+"alerts@securebank[.]ru","Confirm account changes immediately","Dear Customer,\nConfirm at http://securebank[.]ru/confirm to avoid suspension.",1
+"noreply@airline.com","Boarding pass attached","Hi Tanmay,\nYour boarding pass is attached for flight AI123.",0
+"promo@get-rich[.]info","Investment winner selected","CONGRATS!\nClaim at http://get-rich[.]info/claim",1
+"support@company.com","Password expiration notice","Dear Employee,\nYour password will expire in 7 days. Please change it via the intranet.",0
+"admin@verify-now[.]net","Verify billing details","Dear Customer,\nVerify billing details at http://verify-now[.]net/billing",1
+"info@museum.org","Exhibit opening invitation","Hello,\nYou're invited to our exhibit opening next month.",0
+"offers@work-from-home[.]org","Start earning from home","EARN TODAY!\nJoin at http://work-from-home[.]org/signup",1
+"noreply@bank.com","Change to account terms","Dear Customer,\nWe updated account terms. Please review.",0
+"security@account-verify[.]xyz","Unauthorized activity — confirm now","Dear User,\nConfirm at http://account-verify[.]xyz/confirm if this wasn't you.",1
+"team@google.com","Subscription notice","Hi,\nYour Google subscription has been updated.",0
+"promo@daily-cash[.]ru","Claim your daily cash","CLAIM!\nDaily cash at http://daily-cash[.]ru/claim",1
+"noreply@school.edu","Semester timetable published","Dear Student,\nThe semester timetable is now published on the portal.",0
+"admin@secure-portal[.]com","Verify your identity for access","Dear User,\nVerify identity at http://secure-portal[.]com/verify to continue services.",1
+"support@dropbox.com","Billing issue on your account","Hi Tanmay,\nA billing issue occurred. Update billing info in your account.",0
+"offers@prize-now[.]club","You are eligible for instant prize","YOU'RE ELIGIBLE!\nClaim at http://prize-now[.]club/claim",1
+"info@bookstore.com","Your pre-order is confirmed","Hello,\nYour pre-order will ship next week.",0
+"admin@secure-checks[.]ru","Confirm identity to continue","Dear User,\nConfirm identity now: http://secure-checks[.]ru/confirm",1
+"team@slack.com","Reminder: team meeting","Hi,\nTeam meeting scheduled tomorrow at 3 PM.",0
+"offers@instant-win[.]xyz","Instant win — claim now","WIN NOW!\nClaim at http://instant-win[.]xyz/claim",1
+"noreply@health.org","Vaccination schedule update","Hello,\nYour local clinic vaccination schedule has been updated.",0
+"admin@bank-confirm[.]info","Security verification required","Dear Customer,\nComplete verification at http://bank-confirm[.]info/verify",1
+"support@zendesk.com","Your support request updated","Hi,\nYour request has been updated by our team.",0
+"promo@hot-deals[.]online","Limited voucher inside","GET VOUCHER!\nVisit http://hot-deals[.]online/voucher",1
+"noreply@library.org","Your hold is ready for pickup","Hello,\nYour library hold is ready for pickup.",0
+"admin@verify-service[.]ru","Service verification required","Dear User,\nVerify service at http://verify-service[.]ru/verify",1
+"team@trello.com","Card assigned to you","Hi Tanmay,\nA new Trello card was assigned to you.",0
+"offers@lottery-claim[.]com","Claim your lottery prize","CLAIM NOW!\nGo to http://lottery-claim[.]com/claim",1
+"noreply@museum.org","Exhibit ticket attached","Hello,\nYour ticket for the exhibit is attached.",0
+"security@secure-verify[.]xyz","Account verification pending","Dear Customer,\nComplete verification: http://secure-verify[.]xyz/complete",1
+"info@conference.org","Venue details and map","Hi,\nVenue details and map are attached for your convenience.",0
+"promo@easy-earn[.]biz","Work a few hours — earn daily","EARN DAILY!\nStart at http://easy-earn[.]biz/start",1
+"noreply@school.edu","Exam schedule published","Dear Student,\nExam schedule for the semester is now live.",0
+"admin@confirm-account[.]com","Confirm account changes","Dear User,\nConfirm account changes at http://confirm-account[.]com/confirm",1
+"support@helpdesk.com","Ticket closed","Hi,\nYour helpdesk ticket is marked closed.",0
+"offers@bonus-rewards[.]info","Limited time bonus reward","CLAIM BONUS!\nVisit http://bonus-rewards[.]info/claim",1
+"noreply@events.org","RSVP confirmed","Hello,\nYour RSVP to the event is confirmed.",0
+"admin@secure-update[.]net","Update billing information","Dear Customer,\nUpdate billing at http://secure-update[.]net/billing",1
+"team@notion.so","New workspace activity","Hi,\nThere is new activity in your Notion workspace.",0
+"promo@fast-money[.]club","Get money fast — instant approval","APPLY!\nVisit http://fast-money[.]club/apply",1
+"noreply@bank.com","Security alert: new device","Dear Tanmay,\nA new device accessed your account. If not you, secure it immediately.",0
+"admin@verify-mail[.]ru","Verify your mailbox now","Dear User,\nVerify at http://verify-mail[.]ru/verify to avoid closure.",1
+"support@github.com","GPG key added to your account","Hi,\nA new GPG key was added to your GitHub account.",0
+"offers@make-wealth[.]xyz","Make wealth quickly","GROW WEALTH!\nStart at http://make-wealth[.]xyz/start",1
+"noreply@clinic.org","Prescription ready for pickup","Hello,\nYour prescription is ready for pickup at the pharmacy.",0
+"alerts@banking-security[.]com","Confirm transaction to avoid reversal","Dear Customer,\nConfirm transaction at http://banking-security[.]com/confirm",1
+"team@slack.com","Reminder: password rotation","Hi,\nPlease rotate your password as per policy.",0
+"promo@cash-prize[.]today","You are selected for cash prize","CLAIM!\nGo to http://cash-prize[.]today/claim",1
+"noreply@concerts.com","Your e-ticket","Hello Tanmay,\nYour e-ticket is attached. Enjoy the show!",0
+"admin@secure-check[.]org","Update required: account verification","Dear User,\nUpdate verification at http://secure-check[.]org/update",1
+"support@adobe.com","Creative Cloud billing notice","Hi,\nYour Creative Cloud billing is processed.",0
+"offers@profit-now[.]site","Profit opportunity today","EARN NOW!\nStart at http://profit-now[.]site/join",1
+"noreply@university.edu","Orientation schedule","Dear Student,\nOrientation info and schedule are posted on the student portal.",0
+"admin@verify-identity[.]ru","Identity check required","Dear Customer,\nComplete identity check at http://verify-identity[.]ru/check",1
+"team@asana.com","Project milestone reached","Hi,\nProject milestone reached — great work!",0
+"promo@quick-pay[.]me","Update your payment info to continue","ACTION REQUIRED!\nUpdate at http://quick-pay[.]me/update",1
+"noreply@theater.com","Ticket purchase confirmation","Hello,\nYour ticket purchase is confirmed. See details in order.",0
+"alerts@secure-service[.]com","Account security issue detected","Dear Customer,\nWe detected a problem. Verify at http://secure-service[.]com/verify",1
+"support@shop.com","Shipping update for your order","Hi Tanmay,\nYour order will be delivered tomorrow.",0
+"offers@win-prizes[.]online","You could win big prizes","WIN BIG!\nEnter at http://win-prizes[.]online/enter",1
+"noreply@city.gov","Public consultation notice","Dear Resident,\nPublic consultation details are live on the city website.",0
+"admin@confirm-billing[.]xyz","Confirm your billing details now","Dear User,\nConfirm at http://confirm-billing[.]xyz/update",1
