@@ -1,1 +1,1 @@
-![PhishDetect demo screenshot](docs/demo.png)
+![PhishDetect demo screenshot](images/demo.png)
